@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # -*- test-case-name: pytils.test.test_dt -*-
 """
 Russian dates without locales
